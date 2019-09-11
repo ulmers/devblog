@@ -2,7 +2,7 @@ module.exports = {
   title: 'Dev Blog', // Required
   author: 'Stephen Ulmer', // Required
   description: 'Software Developer',
-  primaryColor: '#3498db', // Required
+  primaryColor: '#3fbf92', // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
